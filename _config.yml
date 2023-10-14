@@ -1,0 +1,8 @@
+source:      .
+destination: ./_site
+includes:    ./_includes
+url: https://mittalshravika.github.io
+
+collections:
+  projects:
+    output: true
