@@ -142,8 +142,35 @@ papers:
 
   - title: "Moral Framing of Mental Health Discourse and Its Relationship to Stigma: A Comparison of Social Media and News"
     authors: "<b>Shravika Mittal</b>, Munmun De Choudhury"
-    venue: "CHI'23: Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems. 2023."
+    venue: "Proceedings of the CHI Conference on Human Factors in Computing Systems. 2023."
     paper_pdf: "/assets/publications/2023_moral_framing/paper.pdf"
     video: "https://dl.acm.org/doi/abs/10.1145/3544548.3580834#sec-supp"
     slides: "/assets/publications/2023_moral_framing/slides.pdf"
+    selected: y
+
+  - title: "Incomplete gamma integrals for deep cascade prediction using content, network, and exogenous signals"
+    authors: "Subhabrata Dutta, <b>Shravika Mittal</b>, Dipankar Das, Soumen Chakrabarti, Tanmoy Chakraborty"
+    venue: "IEEE Transactions on Knowledge and Data Engineering. 2022."
+    paper_pdf: "/assets/publications/2022_gamma_cas/paper.pdf"
+    selected: y
+
+  - title: "Dynamics of node influence in network growth models"
+    authors: "<b>Shravika Mittal</b>, Tanmoy Chakraborty, Siddharth Pal"
+    venue: "Physica A: Statistical Mechanics and its Applications. 2022."
+    paper_pdf: "/assets/publications/2022_node_influence/paper.pdf"
+    code: "https://github.com/mittalshravika/Network-Growth-Models"
+    selected: y
+
+  - title: "Hide and seek: outwitting community detection algorithms"
+    authors: "<b>Shravika Mittal</b>, Debarka Sengupta, Tanmoy Chakraborty"
+    venue: "IEEE Transactions on Computational Social Systems. 2021."
+    paper_pdf: "/assets/publications/2021_community_deception/paper.pdf"
+    code: "https://github.com/mittalshravika/HideAndSeek-NEURAL"
+    selected: y
+
+  - title: "Did You “Read” the Next Episode? Using Textual Cues for Predicting Podcast Popularity"
+    authors: "Brihi Joshi<sup>‡</sup>, <b>Shravika Mittal</b><sup>‡</sup>, Aditya Chetan<sup>‡</sup>"
+    venue: "Proceedings of the 1st Workshop on NLP for Music and Audio (NLP4MusA). 2020."
+    paper_pdf: "/assets/publications/2020_podcast_popularity/paper.pdf"
+    code: "https://github.com/brihijoshi/podpop-nlp4musa-2020"
     selected: y
