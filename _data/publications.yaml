@@ -140,6 +140,11 @@ papers:
   #   paper_pdf: "/assets/publications/2010_machine_readable_dictionaries/paper.pdf"
   #   selected: n
 
+  - title: "News Media and Violence Against Women: Understanding Framings of Stigma"
+    authors: "<b>Shravika Mittal</b>, Jasmine C. Foriest, Benjamin D. Horne, Munmun De Choudhury"
+    venue: "Proceedings of the International AAAI Conference on Web and Social Media. 2024."
+    selected: y
+
   - title: "Moral Framing of Mental Health Discourse and Its Relationship to Stigma: A Comparison of Social Media and News"
     authors: "<b>Shravika Mittal</b>, Munmun De Choudhury"
     venue: "Proceedings of the CHI Conference on Human Factors in Computing Systems. 2023."
