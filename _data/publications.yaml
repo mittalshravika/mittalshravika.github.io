@@ -144,6 +144,7 @@ papers:
     authors: "<b>Shravika Mittal</b>, Jasmine C. Foriest, Benjamin D. Horne, Munmun De Choudhury"
     venue: "Proceedings of the International AAAI Conference on Web and Social Media. 2024."
     paper_pdf: "/assets/publications/2024_vaw_framing/paper.pdf"
+    code: "https://github.com/mittalshravika/VAW-Framing"
     selected: y
 
   - title: "Moral Framing of Mental Health Discourse and Its Relationship to Stigma: A Comparison of Social Media and News"
