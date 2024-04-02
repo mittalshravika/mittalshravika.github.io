@@ -150,6 +150,7 @@ papers:
   - title: "Evaluating Large Language Models: Stigma and Opioid Use Disorder"
     authors: "<b>Shravika Mittal</b>, Mai ElSherief, Tanushree Mitra, Munmun De Choudhury"
     venue: "1st HEAL Workshop at CHI Conference on Human Factors in Computing Systems. 2024."
+    paper_pdf: "/assets/publications/2024_CHI24_HEALWorkshop_OUD-LLM/paper.pdf"
     selected: y
 
   - title: "A Cross Community Comparison of Muting in Conversations of Gendered Violence on Reddit"
