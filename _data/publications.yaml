@@ -166,6 +166,11 @@ papers:
     paper_pdf: "https://mental.jmir.org/2024/1/e49879"
     selected: y
 
+  - title: "Research-Education Partnerships: A Co-Design Classroom for College Students with Intellectual and Developmental Disabilities."
+    authors: "Rachel Lowy, Khushi Magiawala, <b>Shravika Mittal</b>, Kaely Hall, Jessica Roberts, Jennifer Kim"
+    venue: "ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW). 2024."
+    selected: y
+
   - title: "Moral Framing of Mental Health Discourse and Its Relationship to Stigma: A Comparison of Social Media and News"
     authors: "<b>Shravika Mittal</b>, Munmun De Choudhury"
     venue: "Proceedings of the CHI Conference on Human Factors in Computing Systems (CHI). 2023."
