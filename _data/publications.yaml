@@ -150,7 +150,7 @@ papers:
 
   - title: "Evaluating Large Language Models: Stigma and Opioid Use Disorder"
     authors: "<b>Shravika Mittal</b>, Mai ElSherief, Tanushree Mitra, Munmun De Choudhury"
-    venue: "1st HEAL Workshop at CHI Conference on Human Factors in Computing Systems. 2024."
+    venue: "1st HEAL Workshop at CHI Conference on Human Factors in Computing Systems (HEAL@CHI). 2024."
     paper_pdf: "/assets/publications/2024_CHI24_HEALWorkshop_OUD-LLM/paper.pdf"
     slides: "/assets/publications/2024_CHI24_HEALWorkshop_OUD-LLM/CHI24-HEALWorkshop-Poster.pdf"
     selected: y
@@ -168,7 +168,7 @@ papers:
 
   - title: "Moral Framing of Mental Health Discourse and Its Relationship to Stigma: A Comparison of Social Media and News"
     authors: "<b>Shravika Mittal</b>, Munmun De Choudhury"
-    venue: "Proceedings of the CHI Conference on Human Factors in Computing Systems. 2023."
+    venue: "Proceedings of the CHI Conference on Human Factors in Computing Systems (CHI). 2023."
     paper_pdf: "/assets/publications/2023_moral_framing/paper.pdf"
     video: "https://dl.acm.org/doi/abs/10.1145/3544548.3580834#sec-supp"
     slides: "/assets/publications/2023_moral_framing/slides.pdf"
