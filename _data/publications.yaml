@@ -140,6 +140,12 @@ papers:
   #   paper_pdf: "/assets/publications/2010_machine_readable_dictionaries/paper.pdf"
   #   selected: n
 
+  - title: "Online Myths on Opioid Use Disorder: A Comparison of Reddit and Large Language Model"
+    authors: "<b>Shravika Mittal</b>, Hayoung Jung, Mai ElSherief, Tanushree Mitra, Munmun De Choudhury"
+    venue: "Proceedings of the International AAAI Conference on Web and Social Media (ICWSM). 2025."
+    paper_pdf: "/assets/publications/2025_oud_myths/paper.pdf"
+    selected: y
+    
   - title: "News Media and Violence Against Women: Understanding Framings of Stigma"
     authors: "<b>Shravika Mittal</b>, Jasmine C. Foriest, Benjamin D. Horne, Munmun De Choudhury"
     venue: "Proceedings of the International AAAI Conference on Web and Social Media (ICWSM). 2024."
