@@ -140,7 +140,7 @@ papers:
   #   paper_pdf: "/assets/publications/2010_machine_readable_dictionaries/paper.pdf"
   #   selected: n
 
-  - title: "Exposure to Content Written by Large Language Models Can Reduce Stigma Around Opioid Use Disorder in Online Communities"
+  - title: "Exposure to Content Written by Large Language Models Can Reduce Stigma Around Opioid Use Disorder"
     authors: "<b>Shravika Mittal</b>, Darshi Shah, Shin Won Do, Mai ElSherief, Tanushree Mitra, Munmun De Choudhury"
     venue: "Nature Partner Journal (npj) Artificial Intelligence. 2025."
     paper_pdf: "https://arxiv.org/abs/2504.10501"
