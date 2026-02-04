@@ -142,8 +142,8 @@ papers:
 
   - title: "Exposure to Content Written by Large Language Models Can Reduce Stigma Around Opioid Use Disorder"
     authors: "<b>Shravika Mittal</b>, Darshi Shah, Shin Won Do, Mai ElSherief, Tanushree Mitra, Munmun De Choudhury"
-    venue: "Nature Partner Journal (npj) Artificial Intelligence. 2025."
-    paper_pdf: "https://arxiv.org/abs/2504.10501"
+    venue: "npj Artificial Intelligence. 2025."
+    paper_pdf: "https://www.nature.com/articles/s44387-025-00049-z"
     selected: y
 
   - title: "Online Myths on Opioid Use Disorder: A Comparison of Reddit and Large Language Model"
