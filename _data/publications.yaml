@@ -140,6 +140,12 @@ papers:
   #   paper_pdf: "/assets/publications/2010_machine_readable_dictionaries/paper.pdf"
   #   selected: n
 
+  - title: "Who's Asking? Simulating Role-Based Questions for Conversational AI Evaluation"
+    authors: "Navreet Kaur, Hoda Ayad, Hayoung Jung, <b>Shravika Mittal</b>, Munmun De Choudhury, Tanushree Mitra"
+    venue: "In Findings of the Association for Computational Linguistics (ACL Findings). 2026."
+    paper_pdf: "https://arxiv.org/pdf/2510.16829"
+    selected: y
+  
   - title: "Exposure to Content Written by Large Language Models Can Reduce Stigma Around Opioid Use Disorder"
     authors: "<b>Shravika Mittal</b>, Darshi Shah, Shin Won Do, Mai ElSherief, Tanushree Mitra, Munmun De Choudhury"
     venue: "npj Artificial Intelligence. 2025."
@@ -149,18 +155,19 @@ papers:
   - title: "Online Myths on Opioid Use Disorder: A Comparison of Reddit and Large Language Model"
     authors: "<b>Shravika Mittal</b>, Hayoung Jung, Mai ElSherief, Tanushree Mitra, Munmun De Choudhury"
     venue: "Proceedings of the International AAAI Conference on Web and Social Media (ICWSM). 2025."
-    paper_pdf: "/assets/publications/2025_oud_myths/paper.pdf"
+    paper_pdf: "https://ojs.aaai.org/index.php/ICWSM/article/view/35870"
     selected: y
 
   - title: "MythTriage: Scalable Detection of Opioid Use Disorder Myths on a Video-Sharing Platform"
     authors: "Hayoung Jung, <b>Shravika Mittal</b>, Ananya Aatreya, Navreet Kaur, Munmun De Choudhury, Tanushree Mitra"
-    venue: "Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP). 2025."
+    venue: "Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP Main). 2025."
+    paper_pdf: "https://aclanthology.org/2025.emnlp-main.146/"
     selected: y
     
   - title: "News Media and Violence Against Women: Understanding Framings of Stigma"
     authors: "<b>Shravika Mittal</b>, Jasmine C. Foriest, Benjamin D. Horne, Munmun De Choudhury"
     venue: "Proceedings of the International AAAI Conference on Web and Social Media (ICWSM). 2024."
-    paper_pdf: "/assets/publications/2024_vaw_framing/paper.pdf"
+    paper_pdf: "https://ojs.aaai.org/index.php/ICWSM/article/view/31373"
     slides: "/assets/publications/2024_vaw_framing/ShravikaMittal_ICWSM24_Poster.pdf"
     code: "https://github.com/mittalshravika/VAW-Framing"
     selected: y
@@ -168,7 +175,7 @@ papers:
   - title: "Moral Framing of Mental Health Discourse and Its Relationship to Stigma: A Comparison of Social Media and News"
     authors: "<b>Shravika Mittal</b>, Munmun De Choudhury"
     venue: "Proceedings of the CHI Conference on Human Factors in Computing Systems (CHI). 2023."
-    paper_pdf: "/assets/publications/2023_moral_framing/paper.pdf"
+    paper_pdf: "https://dl.acm.org/doi/abs/10.1145/3544548.3580834"
     video: "https://dl.acm.org/doi/abs/10.1145/3544548.3580834#sec-supp"
     slides: "/assets/publications/2023_moral_framing/slides.pdf"
     selected: y
@@ -183,6 +190,7 @@ papers:
   - title: "A Cross Community Comparison of Muting in Conversations of Gendered Violence on Reddit"
     authors: "Jasmine C. Foriest<sup>‡</sup>, <b>Shravika Mittal</b><sup>‡</sup>, Kirsten Bray<sup>‡</sup>, Anh-Ton Tran<sup>‡</sup>, Munmun De Choudhury"
     venue: "ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW). 2024."
+    paper_pdf: "https://dl.acm.org/doi/abs/10.1145/3686940"
     selected: y
 
   - title: "News Media Framing of Suicide Circumstances and Gender: Mixed Methods Analysis"
@@ -194,31 +202,32 @@ papers:
   - title: "Research-Education Partnerships: A Co-Design Classroom for College Students with Intellectual and Developmental Disabilities."
     authors: "Rachel Lowy, Khushi Magiawala, <b>Shravika Mittal</b>, Kaely Hall, Jessica Roberts, Jennifer Kim"
     venue: "ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW). 2024."
+    paper_pdf: "https://dl.acm.org/doi/abs/10.1145/3687050"
     selected: y
 
-  - title: "Incomplete gamma integrals for deep cascade prediction using content, network, and exogenous signals"
-    authors: "Subhabrata Dutta, <b>Shravika Mittal</b>, Dipankar Das, Soumen Chakrabarti, Tanmoy Chakraborty"
-    venue: "IEEE Transactions on Knowledge and Data Engineering. 2022."
-    paper_pdf: "/assets/publications/2022_gamma_cas/paper.pdf"
-    selected: y
+  # - title: "Incomplete gamma integrals for deep cascade prediction using content, network, and exogenous signals"
+  #   authors: "Subhabrata Dutta, <b>Shravika Mittal</b>, Dipankar Das, Soumen Chakrabarti, Tanmoy Chakraborty"
+  #   venue: "IEEE Transactions on Knowledge and Data Engineering. 2022."
+  #   paper_pdf: "/assets/publications/2022_gamma_cas/paper.pdf"
+  #   selected: y
 
-  - title: "Dynamics of node influence in network growth models"
-    authors: "<b>Shravika Mittal</b>, Tanmoy Chakraborty, Siddharth Pal"
-    venue: "Physica A: Statistical Mechanics and its Applications. 2022."
-    paper_pdf: "/assets/publications/2022_node_influence/paper.pdf"
-    code: "https://github.com/mittalshravika/Network-Growth-Models"
-    selected: y
+  # - title: "Dynamics of node influence in network growth models"
+  #   authors: "<b>Shravika Mittal</b>, Tanmoy Chakraborty, Siddharth Pal"
+  #   venue: "Physica A: Statistical Mechanics and its Applications. 2022."
+  #   paper_pdf: "/assets/publications/2022_node_influence/paper.pdf"
+  #   code: "https://github.com/mittalshravika/Network-Growth-Models"
+  #   selected: y
 
-  - title: "Hide and seek: outwitting community detection algorithms"
-    authors: "<b>Shravika Mittal</b>, Debarka Sengupta, Tanmoy Chakraborty"
-    venue: "IEEE Transactions on Computational Social Systems. 2021."
-    paper_pdf: "/assets/publications/2021_community_deception/paper.pdf"
-    code: "https://github.com/mittalshravika/HideAndSeek-NEURAL"
-    selected: y
+  # - title: "Hide and seek: outwitting community detection algorithms"
+  #   authors: "<b>Shravika Mittal</b>, Debarka Sengupta, Tanmoy Chakraborty"
+  #   venue: "IEEE Transactions on Computational Social Systems. 2021."
+  #   paper_pdf: "/assets/publications/2021_community_deception/paper.pdf"
+  #   code: "https://github.com/mittalshravika/HideAndSeek-NEURAL"
+  #   selected: y
 
-  - title: "Did You “Read” the Next Episode? Using Textual Cues for Predicting Podcast Popularity"
-    authors: "Brihi Joshi<sup>‡</sup>, <b>Shravika Mittal</b><sup>‡</sup>, Aditya Chetan<sup>‡</sup>"
-    venue: "Proceedings of the 1st Workshop on NLP for Music and Audio (NLP4MusA). 2020."
-    paper_pdf: "/assets/publications/2020_podcast_popularity/paper.pdf"
-    code: "https://github.com/brihijoshi/podpop-nlp4musa-2020"
-    selected: y
+  # - title: "Did You “Read” the Next Episode? Using Textual Cues for Predicting Podcast Popularity"
+  #   authors: "Brihi Joshi<sup>‡</sup>, <b>Shravika Mittal</b><sup>‡</sup>, Aditya Chetan<sup>‡</sup>"
+  #   venue: "Proceedings of the 1st Workshop on NLP for Music and Audio (NLP4MusA). 2020."
+  #   paper_pdf: "/assets/publications/2020_podcast_popularity/paper.pdf"
+  #   code: "https://github.com/brihijoshi/podpop-nlp4musa-2020"
+  #   selected: y
