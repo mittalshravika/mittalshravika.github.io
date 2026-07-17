@@ -140,9 +140,21 @@ papers:
   #   paper_pdf: "/assets/publications/2010_machine_readable_dictionaries/paper.pdf"
   #   selected: n
 
+  - title: "Learning by Chatting? Investigating the Impact of Generative AI on Information Seeking and Learning"
+    authors: "<b>Shravika Mittal</b>, Su Lin Blodgett, Q. Vera Liao"
+    venue: " AAAI/ACM Conference on AI, Ethics, and Society (AIES). 2026."
+    paper_pdf: "https://arxiv.org/abs/2606.11669"
+    selected: y
+
+  - title: "Follow the Rules (or Not): Community Norms and AI-Generated Support in Online Health Communities"
+    authors: "<b>Shravika Mittal</b>, Erin Kasson, Layna Paraboschi, Eleanor Laufenberg, Jiawei Zhou, Patricia A. Cavazos-Rehg, Tanushree Mitra, Munmun De Choudhury"
+    venue: "Proceedings of the International AAAI Conference on Web and Social Media (ICWSM). 2027."
+    paper_pdf: "https://arxiv.org/abs/2603.19093"
+    selected: y
+
   - title: "Who's Asking? Simulating Role-Based Questions for Conversational AI Evaluation"
     authors: "Navreet Kaur, Hoda Ayad, Hayoung Jung, <b>Shravika Mittal</b>, Munmun De Choudhury, Tanushree Mitra"
-    venue: "In Findings of the Association for Computational Linguistics (ACL Findings). 2026."
+    venue: "Findings of the Association for Computational Linguistics (ACL Findings). 2026."
     paper_pdf: "https://arxiv.org/pdf/2510.16829"
     selected: y
   
