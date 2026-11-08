@@ -143,7 +143,7 @@ papers:
   - title: "Babysitting AI Agents: A User-Centered Taxonomy and Study of Agentic Delegation Failures"
     authors: "<b>Shravika Mittal</b>, Sunnie S. Y. Kim, Scott Counts, Jennifer Neville, Debarati Das<sup>‡</sup>, Philippe Laban<sup>‡</sup>"
     paper_pdf: "https://arxiv.org/abs/2610.34748"
-    note: Featured in Microsoft's <a href="https://microsoft.github.io/nfw-reader/">The New Future of Work Reader</a> and accepted to the <a href="https://evalscience.org/2026fall-nyc/">Agent Evaluation Science Symposium </a>.
+    note: Featured in Microsoft's <a href="https://microsoft.github.io/nfw-reader/">The New Future of Work Reader</a> and accepted to the <a href="https://evalscience.org/2026fall-nyc/">Agent Evaluation Science Symposium</a>.
     selected: y
 
   - title: "Learning by Chatting? Investigating the Impact of Generative AI on Information Seeking and Learning"
